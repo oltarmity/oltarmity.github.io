@@ -1,0 +1,94 @@
+HTML CSSResult Skip Results Iframe
+EDIT ON
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+body {
+  background-color: #000;
+}
+
+p {
+  margin: 40px auto;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 70px;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 5px;
+}
+
+#shadow1 {
+
+  text-shadow: 0 1px 2px #fc02e7,
+      1px 3px 1px #5ea04b, 
+      2px 5px 1px #5b9c49, 
+      4px 7px 1px #518b41, 
+      6px 9px 1px #477939,
+      8px 11px 1px #3d6831,
+      10px 13px 1px #335729,
+      12px 15px 1px #294521,
+      14px 17px 1px #1e3418;
+}
+
+#o {
+  text-shadow: 0 1px 2px #ff00dd,
+      1px 3px 1px #9759c0, 
+      2px 5px 1px #8b46b9, 
+      4px 7px 1px #7d3fa6, 
+      6px 9px 1px #6f3894,
+      8px 11px 1px #613181,
+      10px 13px 1px #532a6f,
+      12px 15px 1px #45235c,
+      14px 17px 1px #381c4a;
+}
+
+#u {
+  text-shadow: 0 1px 2px #c48564,
+      1px 3px 1px #c07d59, 
+      2px 5px 1px #b96e46, 
+      4px 7px 1px #a6633f, 
+      6px 9px 1px #945838,
+      8px 11px 1px #814d31,
+      10px 13px 1px #6f422a,
+      12px 15px 1px #5c3723,
+      14px 17px 1px #4a2c1c;
+}
+
+#shadow2 {
+
+  text-shadow: 0 1px 2px #000000,
+      1px 3px 1px #5ea04b, 
+      2px 5px 1px #5b9c49, 
+      4px 7px 1px #518b41, 
+      6px 9px 1px #477939,
+      8px 11px 1px #3d6831,
+      10px 13px 1px #335729,
+      12px 15px 1px #294521,
+      14px 17px 1px #1e3418;
+}
+
+#o {
+  text-shadow: 0 1px 2px #ff00f2da,
+      1px 3px 1px #9759c0, 
+      2px 5px 1px #8b46b9, 
+      4px 7px 1px #7d3fa6, 
+      6px 9px 1px #6f3894,
+      8px 11px 1px #613181,
+      10px 13px 1px #532a6f,
+      12px 15px 1px #45235c,
+      14px 17px 1px #381c4a;
+}
+
+#u {
+  text-shadow: 0 1px 2px #c48564,
+      1px 3px 1px #c07d59, 
+      2px 5px 1px #b96e46, 
+      4px 7px 1px #a6633f, 
+      6px 9px 1px #945838,
+      8px 11px 1px #814d31,
+      10px 13px 1px #6f422a,
+      12px 15px 1px #5c3723,
+      14px 17px 1px #4a2c1c;
+}
+
+
+
+Resources1× 0.5× 0.25×Rerun
